@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on [not.ed](https://github.com/not-ed-app)
 
-- 📝 See my personal blog [https://www.nanduchandran.xyz/](https://www.nanduchandran.xyz/)
-
-- 📫 Reach me **nanduchandran121@gmail.com**
+- 📝 Personal blog [https://www.nanduchandran.xyz/](https://www.nanduchandran.xyz/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
