@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DIY: Control a AC light using ESP32 dev board](https://www.nanduchandran.xyz//posts/DIY-ESP32/)
+- [Hello World](https://www.nanduchandran.xyz//posts/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
