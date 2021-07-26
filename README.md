@@ -4,24 +4,24 @@ Passionate developer from India
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-chandran&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-chandran" /> </p>
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Docker,Flutter, Go
+- 🌱 I’m currently learning Docker,Go
 - 👯 I’m looking to collaborate on [not.ed](https://github.com/not-ed-app)
-- 📝 Personal blog [https://www.nanduchandran.xyz/](https://www.nanduchandran.xyz/)
 
-💬 **Connect with me:**
-
-[<img align="left" alt="nanduchandran.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
+<br/><br/>
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
 - [DIY: Control a AC light using ESP32 dev board](https://www.nanduchandran.xyz//posts/DIY-ESP32/)
 - [Hello World](https://www.nanduchandran.xyz//posts/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
 
+<br/><br/>
+💬 **Connect with me:**
+
+[<img align="left" alt="nanduchandran.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="NC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/><br/>
 
 ⚡ **Languages and Tools:**
 
@@ -30,10 +30,6 @@ Passionate developer from India
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandu-chandran&show_icons=true&locale=en&layout=compact" alt="nandu-chandran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandu-chandran&show_icons=true&locale=en" alt="nandu-chandran" /></p>
-
-
-
-
 
 [website]: https://nanduchandran.xyz
 [instagram]: https://www.instagram.com/nandu_chandran__/
