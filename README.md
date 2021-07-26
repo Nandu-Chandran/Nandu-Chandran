@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nandu Chandran</h1>
-<h3 align="center">A passionate developer from India</h3>
+### Hi there <a href="https://www.nanduchandran.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+Passionate developer from India :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-chandran&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-chandran" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 Personal blog [https://www.nanduchandran.xyz/](https://www.nanduchandran.xyz/)
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [DIY: Control a AC light using ESP32 dev board](https://www.nanduchandran.xyz//posts/DIY-ESP32/)
 - [Hello World](https://www.nanduchandran.xyz//posts/Hello-World/)
