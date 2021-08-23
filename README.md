@@ -11,8 +11,8 @@ Passionate developer from India
 
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Chippi the lizard: A tale of human compassion](https://www.nanduchandran.xyz//posts/Chippy-the-lizard/)
-- [Some Opensource apps you must try](https://www.nanduchandran.xyz//posts/Some-opensource-app-recommendation/)
+- [Chippi the lizard: A tale of human compassion](https://www.nanduchandran.xyz//posts/chippy-the-lizard/)
+- [Some opensource apps you must try](https://www.nanduchandran.xyz//posts/opensource-app-recommendation/)
 - [DIY: Control a AC light using ESP32 dev board](https://www.nanduchandran.xyz//posts/DIY-ESP32/)
 - [Hello World](https://www.nanduchandran.xyz//posts/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
