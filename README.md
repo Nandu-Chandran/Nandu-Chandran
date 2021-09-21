@@ -11,6 +11,7 @@ Passionate developer from India
 
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Python script for the POOR](https://www.nanduchandran.xyz//posts/amazon-price-tracker/)
 - [Chippi the lizard: A tale of human compassion](https://www.nanduchandran.xyz//posts/chippy-the-lizard/)
 - [Some opensource apps you must try](https://www.nanduchandran.xyz//posts/opensource-app-recommendation/)
 - [DIY: Control a AC light using ESP32 dev board](https://www.nanduchandran.xyz//posts/DIY-ESP32/)
