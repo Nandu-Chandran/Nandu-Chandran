@@ -11,11 +11,11 @@ Passionate developer from India
 
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Booknmarks: Tuesdays With Morrie- Mitch Albom](https://www.nanduchandran.xyz//posts/Tuesdays-With-Morrie/)
 - [Python script for the POOR](https://www.nanduchandran.xyz//posts/amazon-price-tracker/)
+- [Bookmarks- Digital Minimalism- Cal Newport](https://www.nanduchandran.xyz//posts/Digital-Minimalism/)
 - [Chippi the lizard: A tale of human compassion](https://www.nanduchandran.xyz//posts/chippy-the-lizard/)
 - [Some opensource apps you must try](https://www.nanduchandran.xyz//posts/opensource-app-recommendation/)
-- [DIY: Control a AC light using ESP32 dev board](https://www.nanduchandran.xyz//posts/DIY-ESP32/)
-- [Hello World](https://www.nanduchandran.xyz//posts/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
 <br />  
 
