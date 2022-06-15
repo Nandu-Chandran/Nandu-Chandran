@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.nanduchandran.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://www.nanduchandran.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Passionate developer from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-chandran&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-chandran" /> </p>
@@ -6,7 +6,7 @@ Passionate developer from India
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Docker,Go
 - 👯 I’m looking to collaborate on [not.ed](https://github.com/not-ed-app)
-- ✒️ Visit my personal [blog](https://www.nanduchandran.xyz)
+- ✒️ Visit my personal [blog](https://www.nanduchandran.com)
 <br />  
 
 📕 **Latest blog posts:**
@@ -21,7 +21,7 @@ Passionate developer from India
 
 💬 **Connect with me:**
 
-[<img align="left" alt="nanduchandran.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nanduchandran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/><br/>
@@ -35,7 +35,7 @@ Passionate developer from India
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandu-chandran&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nandu-chandran" /></p>
 
 
-[website]: https://nanduchandran.xyz
+[website]: https://nanduchandran.com
 [instagram]: https://www.instagram.com/nandu_chandran__/
 [linkedin]: https://www.linkedin.com/in/nandu-chandran-6013ab144/
 
