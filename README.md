@@ -11,11 +11,11 @@ Passionate developer from India
 
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Booknmarks: Tuesdays With Morrie- Mitch Albom](https://www.nanduchandran.xyz//posts/Tuesdays-With-Morrie/)
-- [Python script for the POOR](https://www.nanduchandran.xyz//posts/amazon-price-tracker/)
-- [Bookmarks- Digital Minimalism- Cal Newport](https://www.nanduchandran.xyz//posts/Digital-Minimalism/)
-- [Chippi the lizard: A tale of human compassion](https://www.nanduchandran.xyz//posts/chippy-the-lizard/)
-- [Some opensource apps you must try](https://www.nanduchandran.xyz//posts/opensource-app-recommendation/)
+- [[Finds]-കണ്ണുനീർ](https://www.nanduchandran.com/blog/kannuneer/)
+- [[Finds]-പാദുകങ്ങൾ](https://www.nanduchandran.com/blog/padukam/)
+- [[Finds]-Hinduism as Science](https://www.nanduchandran.com/blog/hinduism-as-science/)
+- [[Booknotes]-How to Make Disease Disappear](https://www.nanduchandran.com/blog/book-make-diseases-disappear/)
+- [[Booknotes]-Digital Minimalism-Cal Newport](https://www.nanduchandran.com/blog/digital-minimalism/)
 <!-- BLOG-POST-LIST:END -->
 <br />  
 
