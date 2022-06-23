@@ -11,11 +11,11 @@ Passionate developer from India
 
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [[Finds]-കണ്ണുനീർ](https://www.nanduchandran.com/blog/kannuneer/)
-- [[Finds]-പാദുകങ്ങൾ](https://www.nanduchandran.com/blog/padukam/)
-- [[Finds]-Hinduism as Science](https://www.nanduchandran.com/blog/hinduism-as-science/)
-- [[Booknotes]-How to Make Disease Disappear](https://www.nanduchandran.com/blog/book-make-diseases-disappear/)
-- [[Booknotes]-Digital Minimalism-Cal Newport](https://www.nanduchandran.com/blog/digital-minimalism/)
+- [കണ്ണുനീർ](https://www.nanduchandran.com/posts/kannuneer/)
+- [പാദുകങ്ങൾ](https://www.nanduchandran.com/posts/padukam/)
+- [Hinduism as Science](https://www.nanduchandran.com/posts/hinduism-as-science/)
+- [How to Make Disease Disappear](https://www.nanduchandran.com/posts/book-make-diseases-disappear/)
+- [Digital Minimalism-Cal Newport](https://www.nanduchandran.com/posts/digital-minimalism/)
 <!-- BLOG-POST-LIST:END -->
 <br />  
 
