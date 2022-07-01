@@ -11,11 +11,11 @@ Passionate developer from India
 
 📕 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Listen to radio from command line](https://www.nanduchandran.com/posts/radio/)
 - [കണ്ണുനീർ](https://www.nanduchandran.com/posts/kannuneer/)
 - [പാദുകങ്ങൾ](https://www.nanduchandran.com/posts/padukam/)
 - [Hinduism as Science](https://www.nanduchandran.com/posts/hinduism-as-science/)
 - [How to Make Disease Disappear](https://www.nanduchandran.com/posts/book-make-diseases-disappear/)
-- [Digital Minimalism-Cal Newport](https://www.nanduchandran.com/posts/digital-minimalism/)
 <!-- BLOG-POST-LIST:END -->
 <br />  
 
