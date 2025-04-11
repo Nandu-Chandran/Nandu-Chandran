@@ -5,7 +5,6 @@ Passionate developer from India
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Docker,Go
-- 👯 I’m looking to collaborate on [not.ed](https://github.com/not-ed-app)
 - ✒️ Visit my personal [blog](https://www.nanduchandran.com)
 <br />  
 
